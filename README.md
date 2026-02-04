@@ -15,3 +15,4 @@ This repository contains my advanced programming practice.
   -  Class and Object implementation problem.
   -  Real-world modeling problem using OOP ("Bank Account System.")
   -  Real-world modeling problem using OOP ("Metro Ticket Booking System.")
+  -  Inheritance-based OOP problem ("Employee IS A Person.")
