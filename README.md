@@ -9,3 +9,4 @@ This repository contains my advanced programming practice.
 
 ## Daily Progress
 - Repository initialized
+- - Solved first Java problem (“Simple Java program demonstrating encapsulation using Smartphone class.”)
