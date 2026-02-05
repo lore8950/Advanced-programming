@@ -16,3 +16,6 @@ This repository contains my advanced programming practice.
   -  Real-world modeling problem using OOP ("Bank Account System.")
   -  Real-world modeling problem using OOP ("Metro Ticket Booking System.")
   -  Inheritance-based OOP problem ("Employee IS A Person.")
+ 
+  -  - Day 02:
+     - Implemented Shape and Circle using method overriding("Inheritance + Runtime Polymorphism problem.")
