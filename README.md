@@ -20,6 +20,7 @@ This repository contains my advanced programming practice.
   -  - Day 02:
      - Implemented Shape and Circle using method overriding("Inheritance + Runtime Polymorphism problem.")
 
-   -  -Day 03
+   - Day 03:
+   -  Implemented Abstract Shape with Circle & Rectangle (Overriding)
    -  Rectangle IS A Box("Inheritance + Method Overriding problem.")
    -  This is an Object-Oriented Programming problem that demonstrates constructor overloading by creating multiple objects of a class using different parameter lists("Constructor Overloading problem.")
