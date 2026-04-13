@@ -1,0 +1,35 @@
+import java.util.Stack;
+
+class Student {
+    int id;
+    String name;
+    double cgpa;
+
+    Student(int id, String name, double cgpa) {
+        this.id = id;
+        this.name = name;
+        this.cgpa = cgpa;
+    }
+    public String toString() {
+        return "ID: " + id + ", Name: " + name + ", CGPA: " + cgpa;
+    }
+}
+
+ class StudentStackExample{
+    public static void main(String[] args) {
+
+        Stack<Student> stack = new Stack<>();
+
+        stack.push(new Student(1, "A", 3.5));
+        stack.push(new Student(2, "B", 3.6));
+        stack.push(new Student(3, "C", 3.7));
+        stack.push(new Student(4, "D", 3.8));
+        stack.push(new Student(5, "E", 3.9));
+
+        stack.pop();
+
+        Student topStudent = stack.peek();
+
+        System.out.println(topStudent);
+    }
+}
